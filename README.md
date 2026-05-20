@@ -49,4 +49,4 @@ B. Comandos Externos (en Foreground):
    - myshell> pwd
    - myshell> clear
    - myshell> mkdir carpeta_prueba
-========================================================================
+
