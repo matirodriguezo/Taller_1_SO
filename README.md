@@ -1,4 +1,4 @@
-   PROYECTO: INTÉRPRETE DE COMANDOS SIMPLE (MYSHELL) - TALLER 1
+   PROYECTO: COMANDOS (MYSHELL) - TALLER 1
 ========================================================================
 Asignatura: Sistemas Operativos (2026)
 Profesor: Juan Felipe González Saavedra
