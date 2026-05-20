@@ -1,4 +1,3 @@
-========================================================================
    PROYECTO: INTÉRPRETE DE COMANDOS SIMPLE (MYSHELL) - TALLER 1
 ========================================================================
 Asignatura: Sistemas Operativos (2026)
