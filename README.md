@@ -22,7 +22,7 @@ Integrantes:
 Abra una terminal en la raíz del directorio donde se encuentra el archivo 
 'Taller1.c' y ejecute el siguiente comando para generar el binario ejecutable:
 
-$ gcc -Wall Taller1.c -o myshell
+gcc -Wall Taller1.c -o myshell
 
 * Nota: El parámetro '-Wall' activa todas las advertencias del compilador 
   para asegurar un código limpio.
@@ -32,7 +32,7 @@ $ gcc -Wall Taller1.c -o myshell
 ------------------------------------------------------------------------
 Una vez compilado el programa sin errores, puede iniciar la shell ejecutando:
 
-$ ./myshell
+./myshell
 
 ------------------------------------------------------------------------
 4. COMANDOS SOPORTADOS
